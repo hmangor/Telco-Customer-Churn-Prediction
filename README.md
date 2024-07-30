@@ -3,7 +3,7 @@ The Telco Customer Churn dataset contains information about a telecommunications
 
 ## Project Plan
 
-** Step 1:** Load and Explore the Dataset
+Step 1: Load and Explore the Dataset
 Step 2: Data Preprocessing
 Step 3: Exploratory Data Analysis (EDA)
 Step 4: Feature Engineering
